@@ -30,7 +30,7 @@
 
 
 
-### Why Deep Learning Matters
+### Why Deep Learning Matters :
 
 Deep Learning is not just another buzzword; it's a technological revolution that's reshaping industries, enabling autonomous vehicles, diagnosing diseases, and even composing music. Understanding its power and potential is crucial in today's world.
 
